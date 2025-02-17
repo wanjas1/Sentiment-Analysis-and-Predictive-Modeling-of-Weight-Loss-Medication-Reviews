@@ -7,7 +7,9 @@ Many people who suffer from obesity rely on weight loss medication to improve th
 Who It Affects
 
 Customers: Depend on ratings and reviews to make informed decisions about choosing the right medication.
+
 Pharmaceutical Companies: Use customer feedback to enhance product quality and services.
+
 Healthcare Providers: Leverage insights to recommend the most effective treatments to patients.
 
 Financial and Social Implications
