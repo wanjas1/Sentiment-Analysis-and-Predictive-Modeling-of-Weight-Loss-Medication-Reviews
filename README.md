@@ -1,5 +1,8 @@
 # Sentiment-Analysis-and-Predictive-Modeling-of-Weight-Loss-Medication-Reviews
 
+![image](https://github.com/user-attachments/assets/45f92ba9-6c8b-4927-b9f0-2ee8f4ba8897)
+
+
 Problem Statement
 
 Many people who suffer from obesity rely on weight loss medication to improve their health. The effectiveness of these medications vary, with different side effects and user experiences, which creates a challenge for pharmaceutical companies, health professionals and customers. Low customer satisfaction can decrease the sales and growth potential of pharmaceutical companies. Also, health professionals may struggle when it comes to recommending drugs to customers depending on their individual experiences. Moreover, some customers spend so much money on medications that may not be beneficial to them or even worsen their condition. Hence, it is important to analyze and predict customer satisfaction ratings to identify patterns that likely lead to positive or negative customer experieces. The goal of this project is to uncover these insights to guide pharmaceutical companies to improve their products, help health workers in prescribing appropriate drugs and also help consumers understand other people's experience with a particular medication before making a purchase. Ratings serve as a key indicator of customer satisfaction with the product.
