@@ -1,7 +1,6 @@
 # Sentiment-Analysis-and-Predictive-Modeling-of-Weight-Loss-Medication-Reviews
 
-![image](https://github.com/user-attachments/assets/45f92ba9-6c8b-4927-b9f0-2ee8f4ba8897)
-
+![weight loss meds](https://github.com/user-attachments/assets/e737ff86-db80-4b96-8c26-eb42571fe373)
 
 Problem Statement
 
